@@ -1,0 +1,16 @@
+playlist: https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4
+
+O curso será feito no code blocks
+Instalação:
+    sudo apt-get update
+
+    wget http://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Linux/Debian%20stable/codeblocks_17.12-1_amd64_stable.tar.xz     OU algum link mais atualizado pelo wget
+
+    sudo dpkg -i nomeDoArquivo
+    
+
+    Não pode ser por apt-get install codeblocks pois a versão no repositório é muito antiga
+
+2 code::block
+    ide
+    compilador - interpreta o código e o converte pra linguagem de máquina
