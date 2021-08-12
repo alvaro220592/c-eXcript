@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628776547 source:c:\users\flarc\documents\cursos\c\c-excript\aula05\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,6 +1,11 @@
 playlist: https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4
 
-O curso será feito no code blocks
+O curso será feito no code blocks e o compilador é o mingw
+
+mudar tema: https://yzhong-cs.medium.com/change-editor-theme-for-code-blocks-windows-linux-mac-92e9c15cbca4
+arquivo: https://gist.github.com/yzhong52/6852140faa233408de67#file-colour_themes-conf
+mudar cor do cursor: https://www.youtube.com/watch?v=fa0x4RIi-hQ
+
 Instalação:
     sudo apt-get update
 
@@ -14,3 +19,30 @@ Instalação:
 2 code::block
     ide
     compilador - interpreta o código e o converte pra linguagem de máquina
+
+    na ide pra começar um projeto: file, new project, console application
+
+4 - hello world
+    na importação de biblioteca:
+        <stdio.b>: 
+        std vem de standard e io vem de input/output, ou seja, entrada e saída de dados
+
+    metodo main() é o principal 
+
+5 - workspace
+
+    pra salvar a workspace, file/save workspace as..
+    nao pode salvar dentro da pasta de um projeto e sim onde sao salvos os projetos
+    essa workspace abrigará os projetos
+    pra fechar a workspace: file, close workspace
+    pra abrir a workspace de novo: file, open e escolhe o arquivo da workspace
+    pra abrir só o projeto, seleciona o arquivo.cbp
+
+    A melhor forma de fazer é salvar os projetos dentro de uma workspace e abrir só ela com todos dentro
+
+    tem q ver se o projeto tá em negrito na hora de rodar
+
+    pra ocultar a barra de projetos: shift + F2. Ela se chama Manager
+    sempre tem q dar um build pra rodar
+    build and run: F9
+    
