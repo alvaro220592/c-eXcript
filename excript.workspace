@@ -3,5 +3,6 @@
 	<Workspace title="Workspace">
 		<Project filename="aula05/aula05.cbp" />
 		<Project filename="compilation/compilation.cbp" />
+		<Project filename="aula10_valores_formatados/aula10_valores_formatados.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
